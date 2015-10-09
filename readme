@@ -1,0 +1,5 @@
+Simple app to create an user database for tornado web server.
+The class is under base.py. Although you need to create an accounts database.
+The example file is included.
+
+The software is released under MIT licence.
